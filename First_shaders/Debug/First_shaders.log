@@ -1,0 +1,15 @@
+﻿Сборка начата 28.12.2015 2:18:30.
+     1>Проект "C:\Users\Serabass\Downloads\Simple_Shaders\Simple_shaders\Simple_Shaders\First_shaders\First_shaders.vcxproj" в узле 2 (целевые объекты Rebuild).
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D GLEW_STATIC /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\serabass\downloads\simple_shaders\simple_shaders\simple_shaders\first_shaders\main.cpp(73): warning C4244: инициализация: преобразование "std::streamoff" в "long", возможна потеря данных
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Serabass\Downloads\Simple_Shaders\Simple_shaders\Simple_Shaders\Debug\Simple_shaders.exe" /INCREMENTAL /NOLOGO freeglut.lib glew32s.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Serabass\Downloads\Simple_Shaders\Simple_shaders\Simple_Shaders\Debug\Simple_shaders.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Serabass\Downloads\Simple_Shaders\Simple_shaders\Simple_Shaders\Debug\Simple_shaders.lib" /MACHINE:X86 /SAFESEH /NODEFAULTLIB:LIBCMT Debug\main.obj
+     1>main.obj : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/SAFESEH"
+         First_shaders.vcxproj -> C:\Users\Serabass\Downloads\Simple_Shaders\Simple_shaders\Simple_Shaders\Debug\Simple_shaders.exe
+     1>Сборка проекта "C:\Users\Serabass\Downloads\Simple_Shaders\Simple_shaders\Simple_Shaders\First_shaders\First_shaders.vcxproj" завершена (целевые объекты Rebuild).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:01.89
